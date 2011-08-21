@@ -1,2 +1,12 @@
+# No Vim temporary files
 .*.swp
+
+# No Python compiled modules
 *.pyc
+
+# No local settings
+*.local
+
+# Absolutely nothing that could be an identity file!
+# Keep this last to prevent anything else from overriding it.
+id_*
